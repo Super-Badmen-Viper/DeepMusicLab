@@ -1,6 +1,6 @@
 # DeepMusicLab
 
-**DeepMusicLab** is an open-source project designed to integrate a suite of AI-driven music services, facilitating ease of deployment and integration for developers and music enthusiasts alike. This platform serves as a comprehensive toolkit for exploring and applying cutting-edge music AI technologies, offering functionalities such as automatic music tagging, style identification, sentiment analysis, and recommendation systems.
+DeepMusicLab aims to integrate an artificial intelligence driven music service, facilitating ease of deployment and integration for developers and music enthusiasts alike. This platform serves as a comprehensive toolkit for exploring and applying cutting-edge music AI technologies, offering functionalities such as automatic music tagging, style identification, sentiment analysis, and recommendation systems.
 
 ## Core Features
 
